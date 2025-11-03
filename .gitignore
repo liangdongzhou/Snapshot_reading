@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# PyInstaller build outputs
+build/
+dist/
+*.spec
+
+# macOS/Windows misc
+.DS_Store
+Thumbs.db
